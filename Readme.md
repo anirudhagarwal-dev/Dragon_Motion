@@ -30,4 +30,4 @@ This project features a dragon that follows your mouse cursor across the screen.
 - `script.js`: Contains the logic for the dragon's movement and animation.
 - `style.css`: Contains the styles for the background and layout.
 
-Enjoy the dragon! 🐉
+Enjoy the dragon! 🐉🐉
